@@ -68,19 +68,22 @@ section{
 .section-hr{
     margin-top: 1rem;
     margin-bottom: 1rem;
-    border: 2px;
     border-top: 5px solid rgba(207, 13, 21,1.0);
     opacity: 1.0;
 }
 
-
-.section-image-right{
-    border-radius: 10px 0 0 10px;
+.internal-hr{
+    margin: 1rem 0;
+    border: 1px;
+    border-top: 1px solid #174b7b;;
+    opacity: 1.0;
 }
 
-.section-image-left{
-    border-radius: 0 10px 10px 0;
+.section-image{
+    margin-right: 3rem;
+    border-radius: 10px;
 }
+
 
 .card-format{
     border-radius: 15px;
